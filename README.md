@@ -4,3 +4,4 @@ This package provides functions to simulate the Monty Hall problem, a probabilit
 # to download without the local paths 
 <br> library(devtools) <br>
  <br> devtools::install_github("gbnavarr-rgb/montyhall100") <br> 
+ <br> library(montyhall100) <br> 
