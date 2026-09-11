@@ -1,0 +1,12 @@
+Package: montyhall100
+Title: Simulate the Monty Hall Problem 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Genesis", "Navarrete", , "gbnavarr@asu.edu", role = c("aut", "cre"))
+Description: This package provides functions to simulate the Monty Hall problem, a probability based on a game show involving three doors, one prize, and two goats. The users can simulate individual games or run large-scale simulations comparing the "stay" and "switch" strategies to demonstrate their chances of winning.
+Depends: 
+   dplyr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
+License: MIT + file LICENSE
